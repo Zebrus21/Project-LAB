@@ -1,0 +1,8 @@
+0x001 = button1
+0x002 = button2
+0x003 = button3
+1x001 = error1
+1x002 = error2
+1x003 = error3
+2x001 = message1
+2x002 = message2
