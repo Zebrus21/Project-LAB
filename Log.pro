@@ -11,11 +11,13 @@ CONFIG += c++11
 SOURCES += \
     LoggingCategories.cpp \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    settings.cpp
 
 HEADERS += \
     LoggingCategories.h \
-    mainwindow.h
+    mainwindow.h \
+    settings.h
 
 FORMS += \
     mainwindow.ui
